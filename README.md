@@ -1,4 +1,4 @@
-Hasil Uji Studi Kasus 2 Oleh <Tezzar>
+Hasil Uji Studi Kasus 2 Oleh (Tezzar)
 | NO | Jenis    | Dokumen | Juara/Dana | Output      | Sesuai? |
 |----|----------|---------|------------|-------------|---------|
 | 1  | Bakorma  | 4       | 3          | Berhak      | Ya      |
