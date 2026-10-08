@@ -1,4 +1,4 @@
-package Pertemuan7;
+package kolaborasi_P7_Tezzar_Fariz;
 import java.util.Scanner;
 
 public class studiKasus210 {
